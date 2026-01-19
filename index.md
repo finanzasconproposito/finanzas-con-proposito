@@ -2,6 +2,8 @@
 title: Finanzas con Propósito
 ---
 
+![Finanzas con Propósito](/finanzas-con-proposito/assets/marca-finanzas-con-proposito.png)
+
 # Finanzas con Propósito
 
 Un blog educativo sobre finanzas éticas, ahorro y bienestar.
