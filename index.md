@@ -2,7 +2,9 @@
 title: Finanzas con Propósito
 ---
 
-![Finanzas con Propósito](/finanzas-con-proposito/assets/marca-finanzas-con-proposito.png)
+<p align="center">
+  <img src="/finanzas-con-proposito/assets/marca-finanzas-con-proposito.png" alt="Finanzas con Propósito" width="220">
+</p>
 
 # Finanzas con Propósito
 
